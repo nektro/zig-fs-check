@@ -1,8 +1,6 @@
 # zig-fs-check
 
-Measure the difference between two slices using the Levenshtein distance algorithm
-
-Adapted from https://github.com/sindresorhus/fs-check
+Various utilities for testing certain conditions in the local files
 
 ## Built With
 - Zig master
